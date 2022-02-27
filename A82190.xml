@@ -1,0 +1,318 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the most high and mighty princesse, the Queen of Sweden, concerning Prince Charles, and the Swedish crown with a representation from the States, to Her Majesty, in reference to the same; and Her gracious answer thereunto. Also, the further proceedings of the Prince at the Hague, and his propositions and desires to the States. Together with the Earl of Brainfords letter, to his Highnesse, concerning the Swedish forces. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82190</idno>
+            <idno type="STC">Wing D711B</idno>
+            <idno type="STC">Thomason E550_30</idno>
+            <idno type="STC">ESTC R205662</idno>
+            <idno type="EEBO-CITATION">99896102</idno>
+            <idno type="PROQUEST">99896102</idno>
+            <idno type="VID">153897</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153897)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2387:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the most high and mighty princesse, the Queen of Sweden, concerning Prince Charles, and the Swedish crown with a representation from the States, to Her Majesty, in reference to the same; and Her gracious answer thereunto. Also, the further proceedings of the Prince at the Hague, and his propositions and desires to the States. Together with the Earl of Brainfords letter, to his Highnesse, concerning the Swedish forces. Published by authority.</title>
+                  <author>Kristina, Queen of Sweden, 1626-1689, attributed name.</author>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>17 Aprill, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Newsletters from Bristol, 12 April, and the Hague, 15 April 1649.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Sweden --  History --  Christina, 1632-1654 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153897:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <p>A DECLARATION OF The moſt High and Mighty Princeſſe, the
+QUEEN OF SWEDEN, <hi>CONCERNING</hi> Prince Charles, <hi>AND</hi> The Swediſh
+Crown: With a Repreſentation from the States, to Her Majeſty, in reference
+to the ſame; and Her Gracious Anſwer thereunto. ALSo, The further
+proceedings of the Prince at the <hi>Hague,</hi> and His Propoſitions and
+Deſires to the States. Together with the Earl of <hi>Brainfords</hi> Letter,
+to his Higneſſe, concerning the Swediſh Forces.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>Imprinted at <hi>London,</hi> for <hi>R. W.</hi> 17
+<hi>Aprill,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153897:2"/>
+            <!-- PDF PAGE 24 -->
+            <pb n="1" facs="tcp:153897:2"/>
+            <!-- PDF PAGE 24 -->
+            <head>A DECLARATION Of the Queen of SWEDEN Concerning Prince
+<hi>Charles,</hi> &amp;c. And Her Majeſties Gracious An<g ref="char:EOLhyphen"/>ſwer to the
+Repreſentation of the States Gene<g ref="char:EOLhyphen"/>rall touching His Highneſſe.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honoured,</salute>
+                  </opener>
+                  <p>THe Earl of Brainford hath had audience, with the moſt high
+and mighty Princeſſe the Queen of Sweden, and hath given an account to his
+young maſter the Prince, of the repreſenting his Em<g ref="char:EOLhyphen"/>baſſie to her
+Majeſty, purporting, That there are mat<g ref="char:EOLhyphen"/>ters of great conſequence, to be
+maturely debated be<g ref="char:EOLhyphen"/>fore there can be an Army of Zwitzers obtained, which 
+<pb n="2" facs="tcp:153897:3"/>
+                     <!-- PDF PAGE 25 -->gives a great demur to the new
+Game in agitation, ſo that if their Cards be not well plaid upon the firſt
+lea<g ref="char:EOLhyphen"/>ding, the Game is in great halard of being utterly loſt and fruſtrated
+in the concluſion. And the rather, by rea<g ref="char:EOLhyphen"/>ſon of the uniting of the two
+moſt famous and renow<g ref="char:EOLunhyphen"/>ned Princes of <hi>Europe,</hi> which in all
+probability will ſoon be made manifeſt to all Chriſtian princes, thorow
+out their ſeverall Teritories: For the moſt illuſtrious Queen of Sweden,
+hath declared prince <hi>Charles</hi> pala<g ref="char:EOLhyphen"/>tine, &amp;c. (her Cozen German) to
+be her rightfull Suc<g ref="char:EOLhyphen"/>ceſſour to the Crown, in caſe ſhe die without
+Iſſue: the State having with a great deal of joy and triumph approved
+thereof, and for the further confirmation thereof, humbly beſought her
+Majeſty to be pleaſed to accept of him alſo for her husband; to which
+ſhe an<g ref="char:EOLhyphen"/>ſwered, That if they did make propoſitions to Her of that nature,
+ſhe would take them into ſerious conſide<g ref="char:EOLhyphen"/>ration and ſpeedily give them
+a poſitive anſwer, &amp;c. ſo that there is ſo much probability in
+this, that it is taken for granted, that the Solemnization of Marriage will
+ſuddenly be accompliſhed, between his Highneſſe, and her Majeſty, the
+moſt vertuous and illuſtrious Queen now raigning in Europe, the Worlds
+Mirrour, Religi<g ref="char:EOLhyphen"/>on's Banner, and a ſecond Star to the late glorious Co<g ref="char:EOLhyphen"/>met of
+<hi>England,</hi> the moſt high and mighty Princeſſe Queen
+<hi>Elizabeth</hi> of happy memory.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Hague</hi> 
+                        <date>14. <hi>April,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Other Letters from <hi>Holland</hi> ſay, That <hi>the Scots
+Com<g ref="char:EOLhyphen"/>miſſioners have had audience with the Prince, they preſen<g ref="char:EOLhyphen"/>ted Letters
+vnto their declared King, upon the k<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, and ſaid that was their endeared
+affection <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them to that po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ture of obedience and loyalty they <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> King
+<pb n="3" facs="tcp:153897:3"/>
+                  <!-- PDF PAGE 25 -->he knew Scotlands mind by
+ſome ſent before, and they de<g ref="char:EOLhyphen"/>ſire to treat about it, but firſt
+Montroſse must depart, they bewayled the death of his late Royall Father,
+vttering ma<g ref="char:EOLhyphen"/>ny inveterate expreſſions againſt the cauſers of it: as yet
+no treaty hath been, nor anſwer given, and though it was declared, by their
+declared King to them, at the delivery</hi> thereof, that within few days he
+would return a ſatiſ<g ref="char:EOLhyphen"/>factory anſwer; yet he now ſeems to vary,
+determining to take ſome reſpite of time in conſultation thereon, and
+deſires likewiſe to take the advice of the States Generall; and to that end
+hath given Sir <hi>Edward Hide</hi> directions to bring in a Declaration, to be
+preſented to the ſaid Councell, the ſum and abſtract whereof
+fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>That he deſires a treaty with ſome of the States Ge<g ref="char:EOLhyphen"/>nerall,
+in reference to the preſent tranſaction of affairs, touching his remove
+from the <hi>Hague</hi> to the Kingdom of <hi>France,</hi> before he take his
+journey for <hi>Ireland.</hi>
+            </p>
+            <p n="2">2 That the chief motives of his inducement hereun<g ref="char:EOLhyphen"/>to, are,
+by reaſon of the diſtractions breaking out anew in the Kingdom of Scotland;
+which diviſions cauſeth him to deſpair in the ſafety of his perſon,
+&amp;c. But theſe conjecturations in all probability will ſoon be
+fruſtra<g ref="char:EOLhyphen"/>ted, for we conceive he will make his abode here, as the beſt
+center of his affairs, and that ſome of the States may poſſibly be
+adviſers in giving aſſiſtance to his re<g ref="char:EOLhyphen"/>ſultations, in caſe his
+Councell be not over violent to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the contrary.</p>
+            <div type="part">
+               <pb n="4" facs="tcp:153897:4"/>
+               <!-- PDF PAGE 26 -->
+               <head>A Narrative of the proceedings of the Forces in Ireland
+touching Prince <hi>CHARLES.</hi>
+               </head>
+               <p>BY an Expreſſe from the City of Dublin, to ſeve<g ref="char:EOLhyphen"/>rall
+Marchants reſiding here, it is advertized; That the Marqueſſe of Ormond,
+Generall Preſton, the Earle of Clanaickard, and the reſt of the Iriſh
+confederates, and compieres have no conſiderable field army, and the
+ſeverall Factions break out into high Differences, by reaſon of the falling
+off of the Lord Inchiquin, and Generall Owen Roe, who are reſolved not to
+fight a<g ref="char:EOLhyphen"/>gainſt Lieut. Generall Crumwell, and the Engliſh ar<g ref="char:EOLhyphen"/>my, which hath
+occaſioned Prince <hi>Rupert</hi> to repreſent a letter to the ſaid Lord
+<hi>Inchiquin,</hi> which was to this effect, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>That He deſireth him to vſe his utmoſt endeavours,
+for the propagating of the preſent work in hand, in relation to the investing
+of his ſacred Majesty</hi> (as he is pleaſed to call the young titular
+King, <hi>Charles</hi> the ſecond) <hi>in all on his</hi> Engliſh, Iriſh,
+<hi>and</hi> Scottiſh Throne, <hi>and to en<g ref="char:EOLhyphen"/>deavour the reſtauration of him
+to its juſt Rights and Dignities, &amp;c.</hi>
+               </p>
+               <p>☞ But his Lordſhip returned this anſwer, <hi>That he
+was reſolved to deſist from any further engagement against the parliament
+of</hi> England, <hi>or to be any wayes inſtrumen<g ref="char:EOLhyphen"/>tall, for the involving of
+bleeding</hi> England <hi>and</hi> Ireland, <hi>in another bloudy and
+domeſtique War; and that for the more apparent acquitting himſelf of that
+inhuman crime he declared that he was reſolved to ſacrifice both life and
+fortunes, againſt all oppoſition whatſoever that ſhould en<g ref="char:EOLhyphen"/>deavour the
+obstruction of the peace and tranquility of that Nation.</hi>
+               </p>
+               <p>Inſomuch, that the difference between prince <hi>Rupert</hi>
+                  <pb n="5" facs="tcp:153897:4"/>
+                  <!-- PDF PAGE 26 -->and his Lordſhip
+increaſeth, and the breach is like to grow wider before there can be any
+compoſure or re<g ref="char:EOLhyphen"/>conciliation. For Gen. <hi>Owen Roe</hi> is likewiſe fallen
+into a diſcontented againſt the Marq. of <hi>Ormond,</hi> who upon mature
+deliberation, in reference to his proceedings, and of the Engliſh Forces to
+be ſent over, under the conduct and command of Lieut. Generall
+<hi>Crumwell,</hi> the ſaid <hi>Owen Roe</hi> called a Councell of Officers,
+and after ſome time ſpent in debate of the preſent tranſa<g ref="char:EOLhyphen"/>ction of
+affaires, it was reſolved by the Councell, That two Letter ſhould be
+forthwith drawn up, the one to be communicated to the parliament of England,
+the other to Colonell Jones, intimating. That if they will not moleſt, or
+cauſe to be moleſted, any of the Forces under his immediate command, in
+their quarters du<g ref="char:EOLhyphen"/>ring the time prefixed for their reſidence in that
+king<g ref="char:EOLhyphen"/>dom, that then he will not iagage againſt any of their Forces, neither
+will he give any aſſiſtance to the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Ormond,
+Preſton,</hi> or any other parties who ſhall engage againſt them,
+provided, that they will not any wayes trouble his quarters, upon the advance
+of the Engliſh Army over, during the time of his re<g ref="char:EOLhyphen"/>ſidence as
+aforeſaid.</p>
+               <p n="2">2 That he may have ſafe paſſage into Spain with
+ſuch forces as ſhall bee deſigned for that Kingdome, &amp;c.</p>
+               <p>By which meanes and revolt, divers begin to decline from
+engagement, and to deſert the prince; ſo that it is hoped that Nation will
+ſoon be reduced to the po<g ref="char:EOLhyphen"/>wer and obedience of parliament, and a period put
+to her languiſhing ane bleeding condition. <hi>Ormond</hi> is in a very ſad
+condition, and dare not take the field, his men moulter away apace.</p>
+               <pb n="6" facs="tcp:153897:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 27 -->
+               <p>The <hi>Expedition, the Tyger,</hi> and another of the
+Parlia<g ref="char:EOLhyphen"/>ments ſhips are got to <hi>Ayrs</hi> point within a few leagus of
+Leverpool, to ſecure the Coaſt of <hi>Ireland</hi> on that ſide. We hear
+of ſome action at Sea, between the two Navies, which ſpeaks the parliament
+Victors, and that they have ſunk and taken 9 of the princes ſhips: for the
+further particulars whereof, I ſhall refer you to my next.</p>
+               <p>The Dammee-prince is at King ſale, from whence we hear, that
+he hath made proclamation (in the young Kings Name) aſſuming the power of
+Deputy and Lord Lieutenant Generall of Ireland, caſting off the Marq. of
+Ormond, and other Commiſſion Officers, and pla<g ref="char:EOLhyphen"/>cing others in their
+ſtead, which cauſeth great mutinies and inſurrections amongſt the
+Souldiery both by Sea and Land; the one threatning to caſt him over board;
+the other to piſtoll him; which fatall Deſtiny, in pro<g ref="char:EOLhyphen"/>ceſſe of time,
+may (in all probability) befall this blou<g ref="char:EOLhyphen"/>dy tyrant, for revenging the bloud of
+thoſe precious Soules, whoſe cryes are eccho'd up to Heaven as an al<g ref="char:EOLhyphen"/>larum
+againſt him.</p>
+               <closer>
+                  <dateline>
+                     <hi>Briſtol.</hi> 
+                     <date>12 <hi>April,</hi> 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur, </p>
+            <closer>
+               <signed>THEO: JENNINGS.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
